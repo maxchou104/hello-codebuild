@@ -5,7 +5,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 </script>
 
 <template>
-  <div>Version 1</div>
+  <div>Version 1.1</div>
   <HelloWorld msg="Vite + Vue" />
 </template>
 
